@@ -1,2 +1,2 @@
 # test1
-ejericio
+ejemplo para mostrar funcionamiento
